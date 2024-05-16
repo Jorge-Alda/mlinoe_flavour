@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "mlinoe-flavour"
+version = "0.1.0"
+description = ""
+authors = ["Jorge-Alda <jalda@unizar.es>"]
+readme = "README.md"
+packages = [{include = "mlinoe_flavour"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mlinoe = {git = "https://github.com/Jorge-Alda/mlinoe.git"}
+jupyterlab = "^4.2.0"
+bsm2smeft = {git = "https://github.com/Jorge-Alda/bsm2smeft.git"}
+flavio = "^2.5.5"
+tqdm = "^4.66.4"
+xgboost = "^2.0.3"
+scikit-learn = "^1.4.2"
+matplotlib = "^3.8.4"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "^4.2.0"
+jupyterlab-git = "^0.50.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
