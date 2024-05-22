@@ -1,0 +1,33 @@
+SM: []
+\Pi_1:
+- y_{\Pi_1}
+\Pi_7:
+- y_{\Pi_7}^{eq}
+- y_{\Pi_7}^{\ell u}
+\mathcal{B}:
+- g_\mathcal{B}^\ell
+- g_\mathcal{B}^\e
+- g_\mathcal{B}^q
+- g_\mathcal{B}^d
+\mathcal{Q}_5:
+- g_{\mathcal{Q}_5}^{dl}
+- g_{\mathcal{Q}_5}^{eq}
+\mathcal{U}_2:
+- g_{\mathcal{U}_2}^{\ell q}
+- g_{\mathcal{U}_2}^{e d}
+\mathcal{W}:
+- g_\mathcal{B}^\ell
+- g_\mathcal{B}^q
+\mathcal{X}:
+- g_\mathcal{X}
+\omega_1:
+- y_{\omega_1}^{q\ell}
+- y_{\omega_1}^{eu}
+\omega_4:
+- y_{\omega_4}^{ed}
+\varphi:
+- y_{\varphi}^e
+- y_{\varphi}^d
+- y_{\varphi}^u
+\zeta:
+- y_\zeta^{q\ell}
