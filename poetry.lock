@@ -935,7 +935,7 @@ xgboost = "^2.0.3"
 type = "git"
 url = "https://github.com/Jorge-Alda/mlinoe.git"
 reference = "HEAD"
-resolved_reference = "589b6d0cef65bb5a1cdec6b8dabd5c912f583d5e"
+resolved_reference = "c991b61fac76d6e0b1b974abbbde32b2c598bd88"
 
 [[package]]
 name = "nbclient"
